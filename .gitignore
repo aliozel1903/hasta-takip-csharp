@@ -13,3 +13,5 @@
 
 # Database (Eğer veritabanının boş halini değil, dolu halini atmak istersen burayı sil)
 # SOHATS.db
+# Visual Studio cache/options directory (Copilot indeksleri dahil)
+.vs/
