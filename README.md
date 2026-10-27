@@ -35,10 +35,7 @@ SOHATS, C# ve .NET teknolojileri kullanılarak geliştirilmiş, sağlık ocaklar
 ## 📸 Ekran Görüntüleri
 
 <img width="483" height="346" alt="Giriş Ekranı" src="https://github.com/user-attachments/assets/768ea41d-20f3-4715-bf5e-db73bc5b8e56" />
-<img width="1000" alt="Ana Ekran" src="https://github.com/user-attachments/assets/facdc939-54f4-49e0-8baf-0a39bb494698" />
 <img width="800" alt="Hasta Kayıt" src="https://github.com/user-attachments/assets/74d133d0-a39f-4c35-b68c-045b2947790c" />
-<img width="800" alt="Poliklinik" src="https://github.com/user-attachments/assets/78aed393-621e-48f3-8fd8-fb918f98e225" />
-<img width="800" alt="Raporlar" src="https://github.com/user-attachments/assets/756933f7-6309-46f1-8d74-36630bb8d1e4" />
 
 ## 📦 Kurulum
 
